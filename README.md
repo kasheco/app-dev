@@ -9,7 +9,7 @@ It tells the story of two teenagers, **Stella** and **Will**, who both suffer fr
 Because of their illness, they must stay **five feet apart**, even though they fall deeply in love.  
 
 > “Can you love someone you can never touch?”  
-> → This is a blockquote 
+
 **Cast:**
 - *Haley Lu Richardson* as **Stella**
 - *Cole Sprouse* as **Will**
